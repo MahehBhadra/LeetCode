@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
     public int[] countBits(int num) 
     {
        int x[]=new int[num+1];
